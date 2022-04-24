@@ -7,4 +7,4 @@ Repository for my moonshot project as part of my studies at ALGOSUP.
 - [x] Moonshot project pitch
 
 ## Apr 25, 2022
-- [ ] Returned specification
+- [x] Returned [specification](https://github.com/lauraleehollande/My-Moonshot-Project/blob/test/Specification.md)
