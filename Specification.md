@@ -1,9 +1,9 @@
 # Moonshot Project
 
 ## Table of Contents
-1. [What problem my project solvingt](#What)
+1. [What problem my project solving](#What)
 2. [Why this problem is worth solving](#Why)
-3. [How do I solve this problemw](#How)
+3. [How I am going to solve this problem](#How)
 
 <a  name="What"/></a>
 ## What problem my project is solving
