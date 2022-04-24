@@ -21,5 +21,5 @@ Here, the goal is to stimulate one of the 5 senses of the human body: the vision
 <a  name="How"/></a>
 ## How I am going to solve this problem
 
-Regarding the technologies, there will be VR and considering the VR project, I think I will use Unity and C#. The interest of my project is that the creation of the scene is relatively fast, even instantaneous. It is not placing each element of the scene one by one but that it is auto-generated thanks to a data bank. 
+Regarding the technologies, there will be VR and considering the VR project, I think I will use Unity and C#. The interest of my project is to create a scene from a photo, once the scene is created it would be possible to propose an immersion using a VR headset in this same scene. The person could then move around in it and reconnect to his past by finding a known place, we could also imagine that this scene evolves "live" as the immersion progresses and the person goes back into his memories. Ideally, the creation of the scene should be relatively quick, even instantaneous. It is not placing each element of the scene one by one but that it is auto-generated thanks to a data bank. 
 I think the use of other languages like Python is also possible, but also visual detection could have an important role to play.
