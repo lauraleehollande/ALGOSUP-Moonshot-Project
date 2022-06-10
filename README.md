@@ -3,6 +3,9 @@ Repository for my moonshot project as part of my studies at ALGOSUP.
 
 ## Retro Planning
 
+### Jan 27, 2022
+- [x] 1st session of the moonshot project
+
 ### Apr 1, 2022
 - [x] Moonshot project pitch
 
