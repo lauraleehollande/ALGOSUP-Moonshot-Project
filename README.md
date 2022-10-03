@@ -14,4 +14,7 @@ Repository for my moonshot project as part of my studies at ALGOSUP.
 
 ### Jun 10, 2022
 - [x] 2nd session of the moonshot project
-- [ ] Roadmap planning
+- [x] Roadmap planning
+
+### Oct 14, 2022
+- [ ] Product management
