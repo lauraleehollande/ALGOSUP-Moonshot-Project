@@ -1,7 +1,7 @@
 # My-Moonshot-Project
 Repository for my moonshot project as part of my studies at ALGOSUP.
 
-<img width="580" alt="Screenshot 2022-10-04 at 09 48 15" src="https://user-images.githubusercontent.com/71769490/193764023-d2c156fd-0880-46e0-9b1e-992858503d27.png">
+<img width="680" alt="Meem'horse" src="https://user-images.githubusercontent.com/71769490/212501838-8285911a-249f-4ccd-bf6e-700820aff3e0.png">
 
 ## Retro Planning
 
