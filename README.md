@@ -20,7 +20,7 @@ Repository for my moonshot project as part of my studies at ALGOSUP.
 
 ## Phase 2 - Research
 ### Oct 2022
-- [ ] Product management <!-- Oct 14, 2022 -->
+- [x] Product management <!-- Oct 14, 2022 -->
 
 - [ ] Functionnal specifications
 - [ ] Technical specifications
