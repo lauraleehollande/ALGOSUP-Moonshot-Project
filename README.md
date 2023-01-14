@@ -16,19 +16,20 @@ Repository for my moonshot project as part of my studies at ALGOSUP.
 
 ### Jun, 2022
 - [x] 2nd session of the moonshot project <!-- Jun 10, 2022 -->
-- [x] Roadmap planning
 
-## Phase 2 - Research
 ### Oct 2022
-- [ ] Product management <!-- Oct 14, 2022 -->
+- [x] Product management <!-- Oct 14, 2022 -->
 
+### Jan 2023
+- [x] update [specification](https://github.com/lauraleehollande/My-Moonshot-Project/blob/main/Specification.md)
+- [x] Roadmap planning
 - [ ] Functionnal specifications
 - [ ] Technical specifications
 
-## Phase 3 - Work<sup>V1</sup> <!-- Oct 2023 to Apr 2024 -->
-- [ ] "Scan" picture
-- [ ] Create a scene
-- [ ] Virtual reality
+## Phase 2 - Work<sup>V1</sup> <!-- May 2023 to Apr 2024 -->
+- [ ] Mobile robot
+- [ ] Interface <!-- Game Engine -->
+- [ ] Bars placement
 
 ## Test <!-- May 2024 to Apr Aug 2024 -->
 
