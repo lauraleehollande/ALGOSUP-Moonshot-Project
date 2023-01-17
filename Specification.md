@@ -30,13 +30,13 @@ Here some example of poles exercises:
 The equestrian world is nowadays more and more connected but nothing has been developed to help coaches/instructors in there physical tasks which has an effect on their physical condition and morale. 
 There are a number of reasons why developing a solution to place bars for horse work might be considered a problem worth solving:
 
-- **Saving time:** Setting up courses and exercises for horse training can be time-consuming, particularly if you have a large arena or multiple horses to work with. A solution that can place the bars quickly and accurately could help trainers save time and focus on other aspects of their work.
+- **Saving time:** Setting up courses and exercises for horse training can be time-consuming, particularly if you have a large arena or multiple horses to work with. A solution that can place the bars quickly and accurately could help coaches/instructors save time and focus on other aspects of their work.
 
 - **Reducing physical effort:** Setting up courses and exercises can also be physically demanding, particularly if you are handling heavy bars or working in a large arena. A solution that can do this work for you could help to reduce the physical strain on trainers.
 
-- **Improving accuracy:**  A solution that is programmed to place the bars in specific locations could potentially be more accurate than a human, which could be particularly useful for trainers who are working on precise exercises or drills.
+- **Improving accuracy:**  A solution that is programmed to place the bars in specific locations could potentially be more accurate than a human, which could be particularly useful for coaches/instructors who are working on precise exercises or drills.
 
-- **Allowing for more flexibility:** A solution that can place the bars in a variety of different locations could also give trainers more flexibility in terms of the types of courses and exercises they can create. This could allow trainers to design more varied and challenging workouts for their horses.
+- **Allowing for more flexibility:** A solution that can place the bars in a variety of different locations could also give trainers more flexibility in terms of the types of courses and exercises they can create. This could allow coaches/instructors to design more varied and challenging workouts for their horses.
 
 
 ## How I am going to solve this problem?
