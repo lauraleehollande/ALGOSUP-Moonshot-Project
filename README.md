@@ -21,13 +21,19 @@ Repository for my moonshot project as part of my studies at ALGOSUP.
 - [x] Product management <!-- Oct 14, 2022 -->
 
 ### Jan 2023
-- [x] update [specification](https://github.com/lauraleehollande/My-Moonshot-Project/blob/main/Specification.md)
+- [x] Update [specification](https://github.com/lauraleehollande/My-Moonshot-Project/blob/main/Specification.md)
 - [x] Roadmap planning
 - [ ] Functionnal specifications
 - [ ] Technical specifications
 
+### Feb 2023
+- [ ] Overview of the project (documentation) <!-- Feb 27, 2023 -->
+
+### Mar 2023
+- [ ] Overview of the project (oral) <!-- Mar 3, 2023 -->
+
 ## Phase 2 - Work<sup>V1</sup> <!-- May 2023 to Apr 2024 -->
-- [ ] Mobile robot
+- [ ] Move the bar by itself
 - [ ] Interface <!-- Game Engine -->
 - [ ] Bars placement
 
