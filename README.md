@@ -23,8 +23,8 @@ Repository for my moonshot project as part of my studies at ALGOSUP.
 ### Jan 2023
 - [x] Update [specification](https://github.com/lauraleehollande/My-Moonshot-Project/blob/main/Specification.md)
 - [x] Roadmap planning
-- [ ] Functionnal specifications
-- [ ] Technical specifications
+- [ ] Functionnal specifications (WIP)
+- [ ] Technical specifications (WIP)
 
 ### Feb 2023
 - [ ] Overview of the project (documentation) <!-- Feb 27, 2023 -->
