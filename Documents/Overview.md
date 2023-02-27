@@ -1,5 +1,5 @@
 # Overview of the project
-My project aims to solve one of the major problems of the equestrian world, more precisely on the training of the horse: the placement of the polework exercises, an essential exercise for the training of the horse.
+My project aims to solve one of the major problems of the equestrian world, more precisely on the training of the horse: the placement of the pole work exercises, an essential exercise for the training of the horse.
 For this, I am working on the project of a bar that would be able to move by itself and return to its defined place with precision when the horse kicks the exercise.
 There are several reasons why it might be considered a problem worth solving:
 Saving time
@@ -25,6 +25,6 @@ Budget planification
 # Glossary
 | Words              	| Definitions                                                                                                                                                                                   	| Sources                                                                                                                                	|
 |--------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------	|
-| Polework exercises 	| It is basic exercise in horse riding to increase your horse’s strength and flexibility, improve their ability to engage the hindquarters, and make their paces more expressive and cadenced. 	| [International Federation for Equestrian Sports](https://www.fei.org/stories/lifestyle/teach-me/3-polework-exercises-strengthen-horse) 	|
+| Pole work exercises 	| It is basic exercise in horse riding composed of several jumping bars to increase your horse’s strength and flexibility, improve their ability to engage the hindquarters, and make their paces more expressive and cadenced. 	| [International Federation for Equestrian Sports](https://www.fei.org/stories/lifestyle/teach-me/3-polework-exercises-strengthen-horse) 	|
 
 
