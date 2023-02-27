@@ -27,7 +27,7 @@ Repository for my moonshot project as part of my studies at ALGOSUP.
 - [ ] Technical specifications (WIP)
 
 ### Feb 2023
-- [ ] Overview of the project (documentation) <!-- Feb 27, 2023 -->
+- [x] Overview of the project (documentation) <!-- Feb 27, 2023 -->
 
 ### Mar 2023
 - [ ] Overview of the project (oral) <!-- Mar 3, 2023 -->
