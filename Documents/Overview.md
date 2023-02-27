@@ -2,25 +2,28 @@
 My project aims to solve one of the major problems of the equestrian world, more precisely on the training of the horse: the placement of the pole work exercises, an essential exercise for the training of the horse.
 For this, I am working on the project of a bar that would be able to move by itself and return to its defined place with precision when the horse kicks the exercise.
 There are several reasons why it might be considered a problem worth solving:
-Saving time
-Reducing physical effort
-Improving accuracy
-Allowing for more flexibility
+- Saving time
+- Reducing physical effort
+- Improving accuracy
+- Allowing for more flexibility
 
 # What is done
 - The [roadmap and planning](https://github.com/lauraleehollande/ALGOSUP-Moonshot-Project/blob/main/README.md)
-- Free access to horse jumping bars for testing, prototyping…
 - The [first specification](https://github.com/lauraleehollande/ALGOSUP-Moonshot-Project/blob/main/Documents/Specification.md)
+- Free access to jumping bars for testing, prototyping…
+- Testers, users and experts in the horse riding field to work with
 
 # What I am currently working on
 - Functional specifications (v1)
+  - Design and UX
+  - User case and personas
 - Technical specifications (v1)
-- One or two surveys to know:
-    - The use of the telephone on horseback
-    - Riders' and instructors' session preparation habits
+  - Hardware I need
+  - Software I need
 - Budget planification
-
-
+- One or two surveys to know:
+  - The use of the telephone on horseback
+  - Riders' and instructors' session preparation habits
 
 # Glossary
 | Words              	| Definitions                                                                                                                                                                                   	| Sources                                                                                                                                	|
