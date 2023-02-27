@@ -8,17 +8,17 @@ Improving accuracy
 Allowing for more flexibility
 
 # What is done
-The [roadmap and planning](https://github.com/lauraleehollande/ALGOSUP-Moonshot-Project/blob/main/README.md)
-Free access to horse jumping bars for testing, prototyping…
-The [first specification](https://github.com/lauraleehollande/ALGOSUP-Moonshot-Project/blob/main/Documents/Specification.md)
+- The [roadmap and planning](https://github.com/lauraleehollande/ALGOSUP-Moonshot-Project/blob/main/README.md)
+- Free access to horse jumping bars for testing, prototyping…
+- The [first specification](https://github.com/lauraleehollande/ALGOSUP-Moonshot-Project/blob/main/Documents/Specification.md)
 
 # What I am currently working on
-Functional specifications (v1)
-Technical specifications (v1)
-One or two surveys to know:
-The use of the telephone on horseback
-Riders' and instructors' session preparation habits
-Budget planification
+- Functional specifications (v1)
+- Technical specifications (v1)
+- One or two surveys to know:
+    - The use of the telephone on horseback
+    - Riders' and instructors' session preparation habits
+- Budget planification
 
 
 
