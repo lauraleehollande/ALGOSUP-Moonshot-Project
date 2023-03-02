@@ -41,11 +41,12 @@ There are a number of reasons why developing a solution to place bars for horse 
 
 
 ## How I am going to solve this problem?
-<!-- The option would be to have a jumping bar which can move by itself with accuracy. I already have some and different ideas to do that:
-- Continuous tracks or rotating ends -->
-The option would be to use a mobile robot base equipped with a mechanism for picking up and placing the bars. The robot could navigate around the arena using sensors such as cameras or light detection and ranging (LIDAR) to avoid obstacles and locate the desired placement for the bars. The coach/instructor will be able to plan ahead their next sessions and the robot will be able to place it.
+The option would be to have a jumping bar which can move by itself with accuracy. I plan to add rotating ends to the jumping bar
+that will enable it to move with the help of sensors placed around the training area. The riders and trainers will also have an acces to an application to plan their exercices ahead and control the bars.
+About the technologies I will maybe use Python or C++ for the jumping bar and there is many option to develop an application.
+<!--The option would be to use a mobile robot base equipped with a mechanism for picking up and placing the bars. The robot could navigate around the arena using sensors such as cameras or light detection and ranging (LIDAR) to avoid obstacles and locate the desired placement for the bars. The coach/instructor will be able to plan ahead their next sessions and the robot will be able to place it.
 There are many different programming languages that you could use to develop a robot, I am considering using Python or C++.
-One of the key elements of my project is to offer the possibility to the trainer to plan their session ahead on a logiciel link to the robot. Using a software will bring more precision on the horse's work which needs precise measure. For this part we can imagine a software will work with a graphical user interface.
+One of the key elements of my project is to offer the possibility to the trainer to plan their session ahead on a logiciel link to the robot. Using a software will bring more precision on the horse's work which needs precise measure. For this part we can imagine a software will work with a graphical user interface.-->
 
 # Glossary
 | Words              	| Definitions                                                                                                                                                                                   	| Sources                                                                                                                                	|
