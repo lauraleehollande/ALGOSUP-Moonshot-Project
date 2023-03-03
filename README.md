@@ -1,7 +1,7 @@
 # My-Moonshot-Project
 **MEEM'HORSE** is a smart jumping bar for your poleworks exercises and the training of your horse. This bar would able to be programmed at a precise place in your training area and whenever a horse kicks the bars and move the device, the rider or the trainer/instructor will be able to replace the bars at this default place with an application on his phone.
 
-<img width="680" alt="Meem'horse" src="https://user-images.githubusercontent.com/71769490/212501838-8285911a-249f-4ccd-bf6e-700820aff3e0.png">
+<img width="680" alt="Screenshot 2023-03-03 at 10 07 14" src="https://user-images.githubusercontent.com/71769490/222678877-25b53db3-a7ad-4362-b60d-181b1236c2b7.png">
 
 ## Retro Planning
 
