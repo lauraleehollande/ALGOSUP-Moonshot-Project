@@ -6,7 +6,7 @@ Table of Contents
   - [What problem my project is solving?](#what-problem-my-project-is-solving)
   - [Why this problem is worth solving?](#why-this-problem-is-worth-solving)
   - [How I am going to solve this problem?](#how-i-am-going-to-solve-this-problem)
-- [Glossary](#glossary)
+  - [Glossary](#glossary)
 
 ## What problem my project is solving?
 
@@ -22,27 +22,25 @@ The difficulty of this discipline lies in its abstract nature, as the rider must
 ## Why this problem is worth solving?
 
 The equestrian world is nowadays more and more connected but nothing has been developed to help riders or/and trainers in there physical tasks which has an effect on their physical condition and morale.
-There are a number of reasons why developing a solution to place bars for horse work might be considered a problem worth solving:
+There are a number of reasons why developing a solution to analyze the rider's routine might be considered a problem worth solving:
 
-- **Saving time:** Setting up courses and exercises for horse training can be time-consuming, particularly if you have a large arena or multiple horses to work with. A solution that can place the bars quickly and accurately could help coaches/instructors save time and focus on other aspects of their work.
+- **Autonomy:** It can be difficult for riders to know if they have correctly executed their movements without the help of a dressage coach or judge. That is why a smart assistant to analyze dressage movements can be an interesting solution.
 
-- **Reducing physical effort:** Setting up courses and exercises can also be physically demanding, particularly if you are handling heavy bars or working in a large arena. A solution that can do this work for you could help to reduce the physical strain on trainers.
+- **Precision:** Better understanding the mistakes riders make and correcting them more quickly would allow them to progress more rapidly and achieve their goals more easily.
 
-- **Improving accuracy:**  A solution that is programmed to place the bars in specific locations could potentially be more accurate than a human, which could be particularly useful for roders and/or trainers who are working on precise exercises or drills.
-
-- **Allowing for more flexibility:** A solution that can place the bars in a variety of different locations could also give trainers and riders more flexibility in terms of the types of courses and exercises they can create. This could allow coaches/instructors to design more varied and challenging workouts for their horses.
+- **New perspectives:** This could also make the discipline more accessible to a wider audience, as riders would be able to track their progress more easily without the need for a coach all the time. Therefore, solving this problem could improve the experience of practicing dressage for riders and allow the discipline to continue to evolve, modernize, and grow.
 
 ## How I am going to solve this problem?
 
-The option would be to have a jumping bar which can move by itself with accuracy. I plan to add rotating ends to the jumping bar
-that will enable it to move with the help of sensors placed around the training area. The riders and trainers will also have an acces to an application to plan their exercices ahead and control the bars.
-About the technologies I will maybe use Python or C++ for the jumping bar and there is many option to develop an application.
-<!--The option would be to use a mobile robot base equipped with a mechanism for picking up and placing the bars. The robot could navigate around the arena using sensors such as cameras or light detection and ranging (LIDAR) to avoid obstacles and locate the desired placement for the bars. The coach/instructor will be able to plan ahead their next sessions and the robot will be able to place it.
-There are many different programming languages that you could use to develop a robot, I am considering using Python or C++.
-One of the key elements of my project is to offer the possibility to the trainer to plan their session ahead on a logiciel link to the robot. Using a software will bring more precision on the horse's work which needs precise measure. For this part we can imagine a software will work with a graphical user interface.-->
+To solves this problem, I have envisioned a solution capable of analyzing the rider's track using various sensors. Some of them will be placed on the dressage letters to recreate the arena, while another one will be in motion, placed on the saddle, and communicating with the sensors of the letters to have the exact position of the rider within the area delimited by the dressage letters and compare the rider's trajectory with the original routine.
 
-# Glossary
+The main challenges of this project are:
 
-| Words              	| Definitions                                                                                                                                                                                   	| Sources                                                                                                                                	|
+- Data collection
+- Data analysis
+
+## Glossary
+
+<!-- | Words              	| Definitions                                                                                                                                                                                   	| Sources                                                                                                                                	|
 |--------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------	|
-| Polework exercises 	| It is basic exercise in horse riding to increase your horse’s strength and flexibility, improve their ability to engage the hindquarters, and make their paces more expressive and cadenced. 	| [International Federation for Equestrian Sports](https://www.fei.org/stories/lifestyle/teach-me/3-polework-exercises-strengthen-horse) 	|
+| Polework exercises 	| It is basic exercise in horse riding to increase your horse’s strength and flexibility, improve their ability to engage the hindquarters, and make their paces more expressive and cadenced. 	| [International Federation for Equestrian Sports](https://www.fei.org/stories/lifestyle/teach-me/3-polework-exercises-strengthen-horse) 	| -->
