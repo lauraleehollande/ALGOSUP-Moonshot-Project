@@ -52,5 +52,4 @@ The MEEM'HROSE[^2] project aims to tackle this challenge by leveraging technolog
 ### V. Glossary
 
 [^1]: Dressage involves developing horses to showcase the elegance of their movements and their ease of use. In competitions, the performances are based on routines consisting of classical movements and required or freestyle figures, with the horse performing in different gaits. (translated from French).
-
 *source : [Fédération Française d'Équitation](https://www.ffe.com/pratiquer/disciplines/dressage)*
